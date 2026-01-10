@@ -2,6 +2,9 @@
 
 특정 속성(옷색깔, 성별 등)을 선별하여 카운팅하는 피플 카운터 시스템입니다. 단일 카메라를 사용하며, ReID(Re-identification) 기반 추적과 속성 분류를 통해 정확한 카운팅을 수행합니다.
 
+![Result2](https://github.com/user-attachments/assets/66ba4a51-151b-4c23-942e-f8e5d760df6f)
+![Result3](https://github.com/user-attachments/assets/f00462cf-0a53-4921-be60-440a6619c483)
+
 ## 주요 기능
 
 - **사람 감지**: YOLOv8 기반 실시간 사람 감지
